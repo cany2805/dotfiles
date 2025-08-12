@@ -1,0 +1,1 @@
+So basically this is my first ever dotfiles most of it is taken from other repos so credit to them! (ill prob link their repos later) im mostly adding this repo so that i can store my dots and even share it with my friends so enjoy
